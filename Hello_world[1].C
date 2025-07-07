@@ -1,4 +1,4 @@
-//Name:Adhyaygyawant PRN:24030331378001
+//Name:Dnyaneshwar Chalwad PRN:24030331378002
 #include <stdio.h>
 
 int main() {
